@@ -1,0 +1,26 @@
+{
+  "name": "sponsored-cleanup",
+  "version": "1.0.0",
+  "description": "Hello, world",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "web3": "^1.6.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mondweep/sponsored-cleanup/issues"
+  },
+  "homepage": "https://github.com/mondweep/sponsored-cleanup#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
